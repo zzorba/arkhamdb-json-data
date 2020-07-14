@@ -319,14 +319,14 @@
 		"xp": 3
 	},
 	{
-		"code": "60408",
+		"code": "60426",
 		"cost": 4,
 		"deck_limit": 2,
 		"faction_code": "mystic",
 		"illustrator": "Stanislav Dikolenko",
 		"name": "Clairvoyance",
 		"pack_code": "jac",
-		"position": 8,
+		"position": 26,
 		"quantity": 2,
 		"skill_intellect": 1,
 		"skill_willpower": 1,
