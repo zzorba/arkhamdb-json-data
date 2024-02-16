@@ -116,7 +116,7 @@
     "cost": null,
     "deck_limit": 1,
     "faction_code": "neutral",
-    "flavor": "Is this the same evergy harnessed by Nikola Tesla?",
+    "flavor": "Is this the same energy harnessed by Nikola Tesla?",
     "hidden": true,
     "illustrator": "Falk Haensel",
     "is_unique": true,
@@ -126,7 +126,7 @@
     "position": 5,
     "quantity": 1,
     "subname": "Active",
-    "text": "Permanent.\n[reaction] When you place a clue on an asset you control: Get +2 skill value for your next skill test this phase.",
+    "text": "Permanent. Kate Winthrop deck only\n[reaction] When you place a clue on an asset you control: Get +2 skill value for your next skill test this phase.",
     "traits": "Item. Tool. Science.",
     "type_code": "asset"
   },
@@ -162,7 +162,7 @@
     "quantity": 1,
     "skill_agility": 1,
     "subname": "Yoth",
-    "text": "Bonded (Flux Stabilizer). Play only if Flux Stabilizer is on its <i>(Active)</i> side.\n<b>Evade.</b> Move all clues on assets you control to Kate Winthrop. For this evasion attempt, you may use [intellect] instead of [agility]. If you succeed and the target of this evasion is non-[[Elite]], shuftle it into the encounter deck. Draw 1 card. Flip Flux Stabilizer <i>(keeping all tokens and attachments)</i>.",
+    "text": "Bonded (Flux Stabilizer). Play only if Flux Stabilizer is on its <i>(Active)</i> side.\n<b>Evade.</b> Move all clues on assets you control to Kate Winthrop. For this evasion attempt, you may use [intellect] instead of [agility]. If you succeed and the target of this evasion is non-[[Elite]], shuffle it into the encounter deck. Draw 1 card. Flip Flux Stabilizer <i>(keeping all tokens and attachments)</i>.",
     "traits": "Science.",
     "type_code": "event"
   },
@@ -1157,7 +1157,7 @@
     "sanity": 1,
     "skill_intellect": 1,
     "subname": "Sentient Strain",
-    "text": "Researched. Limit 1 per deck.\n[fast]: Search your bonded cards for Uncanny Growth and add it to your hand. (Limit once per round.)\n[reaction] When an investigator draws a non-weakness treachery card, it their locations shroud is equal to or less than Ravenous Myconid's growth: Cancel that treachery's effects and discard it. Remove all growth from Ravenous Myconid.",
+    "text": "Researched. Limit 1 per deck.\n[fast]: Search your bonded cards for Uncanny Growth and add it to your hand. (Limit once per round.)\n[reaction] When an investigator draws a non-weakness treachery card, if their locations shroud is equal to or less than Ravenous Myconid's growth: Cancel that treachery's effects and discard it. Remove all growth from Ravenous Myconid.",
     "traits": "Creature. Science.",
     "type_code": "asset",
     "xp": 4
@@ -1526,7 +1526,7 @@
     "permanent": true,
     "position": 79,
     "quantity": 1,
-    "text": "Permanent. Exceptional.\n[reaction] Before you draw your opening hand: Search your deck for up to 3 different Trick cards, and attach them facedown to Bewitching. Shuffle your deck.\n[reaction] When you engage an enemy, exhaust Bewitching: Either draw 1 attached card, or search the top 9 cards of your deck for a copy of an attached card, draw it, and shuffle your deck.",
+    "text": "Permanent. Exceptional.\n[reaction] Before you draw your opening hand: Search your deck for up to 3 different [[Trick]] cards, and attach them facedown to Bewitching. Shuffle your deck.\n[reaction] When you engage an enemy, exhaust Bewitching: Either draw 1 attached card, or search the top 9 cards of your deck for a copy of an attached card, draw it, and shuffle your deck.",
     "traits": "Talent. Trick.",
     "type_code": "event",
     "xp": 3
@@ -1821,6 +1821,7 @@
     "health": 1,
     "illustrator": "Aurore Folny",
     "name": "Olive McBride",
+    "subname": "Tried Everything Once",
     "is_unique": true,
     "pack_code": "fhvp",
     "position": 97,
