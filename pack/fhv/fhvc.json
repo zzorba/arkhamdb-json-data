@@ -298,7 +298,7 @@
   },
   {
     "back_name": "The Brilliance",
-    "back_text": "If you flipped this act while or after playing the Dawn of the First Day prelude, read the following: <i>\nThe sweetness of the air and the vibrant colors are overwhelming. Your pulse is electric as gooseflesh creeps up your arm and your skin prickles, almost as if under an invisible caress. You are not alone, you never were alone, but the one who is with you is you, and you, and you, and you, and you and you and and and and \nYou catch yourself staring up at the glassy sky, bewildered and drunk with wonder.</i> \nYou (and only you) earn 1 bonus experience <i>(do not spend it until instructed)</i>",
+    "back_text": "If you flipped this act while or after playing the Dawn of the First Day prelude, read the following: <i>\nThe sweetness of the air and the vibrant colors are overwhelming. Your pulse is electric as gooseflesh creeps up your arm and your skin prickles, almost as if under an invisible caress. You are not alone, you never were alone, but the one who is with you is you, and you, and you, and you, and you and you and and and and\nYou catch yourself staring up at the glassy sky, bewildered and drunk with wonder.</i>\nYou (and only you) earn 1 bonus experience <i>(do not spend it until instructed)</i>",
     "clues": null,
     "code": "10682",
     "double_sided": true,
@@ -312,13 +312,13 @@
     "position": 182,
     "quantity": 1,
     "stage": 1,
-    "text": "Investigators cannot take damage/horror or be defeated. \n<b>Objective</b> - Befriend the locals and prepare for the first survey! <i>(Refer to the rules on page 6 for more information on preludes)</i>",
+    "text": "Investigators cannot take damage/horror or be defeated.\n<b>Objective</b> - Befriend the locals and prepare for the first survey! <i>(Refer to the rules on page 6 for more information on preludes)</i>",
     "type_code": "act"
   },
   {
-    "back_flavor": "You reconvene back the boarding house. Ms. Olmstead lays out a spread of warm buttered cornbread, roasted radishes the size of your fist, and a pile of grey oily eggs. Your stomach growls as you nibble on some of your field rations rather than partake. \nCheck the campaign log: \n<i>If Bertie was rescued,</i> (→R1) <i>(page 42)</i>, \nOtherwise, (→R2) <i>(page 42)</i>",
+    "back_flavor": "You reconvene back the boarding house. Ms. Olmstead lays out a spread of warm buttered cornbread, roasted radishes the size of your fist, and a pile of grey oily eggs. Your stomach growls as you nibble on some of your field rations rather than partake.",
     "back_name": "Time to Get to Work!",
-    "back_text": "Each investigator resigns <b>(→R1)</b> <i>(page 9)</i>.",
+    "back_text": "Check the campaign log:\n<i>If Bertie was rescued,</i> <b>(→R1)</b> <i>(page 42)</i>, \nOtherwise, <b>(→R2)</b> <i>(page 42)</i>",
     "code": "10683",
     "doom": 6,
     "double_sided": true,
@@ -351,7 +351,7 @@
     "position": 184,
     "quantity": 1,
     "stage": 1,
-    "text": "Investigators cannot take damage/horror or be defeated. \n<b>Objective</b> - Talk to the locals and learn more about Hemlock Isle!",
+    "text": "Investigators cannot take damage/horror or be defeated.\n<b>Objective</b> - Talk to the locals and learn more about Hemlock Isle!",
     "type_code": "act"
   },
   {
@@ -684,7 +684,7 @@
     "pack_code": "fhvc",
     "position": 227,
     "quantity": 2,
-    "text": "<b>Revelation</b> – Attach Fungal Rot to an [[Item]] asset you control without Fungal Rot attached. If you cannot, Fungal Rot gains surge. \nTreat attached asset's text box as if it were blank (except for [[Traits]]). \n[action]: Test [combat] (3). If you succeed, discard Fungal Rot. Otherwise, take 1 damage.",
+    "text": "<b>Revelation</b> – Attach Fungal Rot to an [[Item]] asset you control without Fungal Rot attached. If you cannot, Fungal Rot gains surge.\nTreat attached asset's text box as if it were blank (except for [[Traits]]).\n[action]: Test [combat] (3). If you succeed, discard Fungal Rot. Otherwise, take 1 damage.",
     "traits": "Hazard. Blight.",
     "type_code": "treachery"    
   },
@@ -698,7 +698,7 @@
     "pack_code": "fhvc",
     "position": 243,
     "quantity": 5,
-    "text": "<b>Revelation</b> – Attach Fire! to the nearest location with no copy of Fire! attached (connected to a location with Fire! attached, if able). \n[action]: Test [agility] (4). If you succeed, discard Fire! \n<b>Forced</b> – At the end of the round: Each card with health at this location takes 1 direct damage.",
+    "text": "<b>Revelation</b> – Attach Fire! to the nearest location with no copy of Fire! attached (connected to a location with Fire! attached, if able).\n[action]: Test [agility] (4). If you succeed, discard Fire!\n<b>Forced</b> – At the end of the round: Each card with health at this location takes 1 direct damage.",
     "traits": "Hazard.",
     "type_code": "treachery"    
   }
