@@ -338,7 +338,7 @@
   {
     "back_name": "A Mistake",
     "clues": null,
-    "back_text": "<b>If you flipped this act while or after playing the Dawn of the Second Day prelude, read the following:</b>\n<blockquote><i>As you walk through the village, a wave of dizziness washes over you and you stumble forward, putting your hand out to steady yourself. You cut your palm on the corner of a stack of mirrors and cry out in pain as thick, heavy raindrops begin to fall.</i></blockquote>\nCodex 17 <i>(page 42).</i>",
+    "back_text": "<b>If you flipped this act while or after playing the Dawn of the Second Day prelude, read the following:</b>\n<blockquote><i>As you walk through the village, a wave of dizziness washes over you and you stumble forward, putting your hand out to steady yourself. You cut your palm on the corner of a stack of mirrors and cry out in pain as thick, heavy raindrops begin to fall.</i></blockquote>\n<b>([codex] 17)</b> <i>(page 42).</i>",
     "code": "10684",
     "double_sided": true,
     "encounter_code": "day_of_rain",
