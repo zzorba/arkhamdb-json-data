@@ -293,7 +293,7 @@
     "position": 38,
     "quantity": 1,
     "shroud": 3,
-    "text": "<b>Forced</b> - After you reveal Rocky Shoreline: Spawn a set-aside Crustacean Hybrid enemy at this location, <i>(In The Light)</i> side faceup.",
+    "text": "<b>Forced</b> - After you reveal Rocky Shoreline: Spawn a set-aside Crustacean Hybrid enemy at this location, <i>(In the Light)</i> side faceup.",
     "traits": "Coastal.",
     "type_code": "location"
   },
