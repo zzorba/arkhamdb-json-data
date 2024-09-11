@@ -866,7 +866,7 @@
     "pack_code": "fhvc",
     "position": 88,
     "quantity": 1,
-    "text": "East / Standard\n[skull]: -X. X is half the number of [[Sunken]] locations in play (rounded up).\n[cultist]: -1. You may remove 1 sinkhole from the nearest [[Bog]] location.\n[tablet]: -3. If you fail, place 1 damage on the nearest [[Bog]] location, as a sinkhole.\n[elder_thing]: -4. If you fail, search the encounter deck and discard pile for a Grasping Tendril enemy and draw it, ignoring its surge keyword.",
+    "text": "Easy / Standard\n[skull]: -X. X is half the number of [[Sunken]] locations in play (rounded up).\n[cultist]: -1. You may remove 1 sinkhole from the nearest [[Bog]] location.\n[tablet]: -3. If you fail, place 1 damage on the nearest [[Bog]] location, as a sinkhole.\n[elder_thing]: -4. If you fail, search the encounter deck and discard pile for a Grasping Tendril enemy and draw it, ignoring its surge keyword.",
     "type_code": "scenario"
   },
   {
