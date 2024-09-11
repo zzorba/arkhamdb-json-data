@@ -136,7 +136,7 @@
   {
     "back_flavor": "\"She's alive. Though I doubt Bruce is,\" Helen says, gripping the torn dog leash in one hand. You follow her as she tracks a set of footprints deeper into the darkness. As your eyes readjust to the low light, you notice the footprints glow with the leavings of the bioluminescent fungus covering the cavern floors.\n\"It's this way. Be ready for anything,\" Helen says. You steel yourself and keep step beside her. Ahead, an unsettling click and whir tell you that you are far from alone...",
     "back_name": "A Glowing Trail",
-    "back_text": "Choose a [[Coastal]] location (with no investigators, if able). Put the set-aside Fungal Cave location into play adjacent to the chosen location.\nPut the top card of the Caverns deck into play adjacent to the Fungal Cave. Repeat this until the Fungal Cave is connected to four locations, or the Caverns deck is empty.",
+    "back_text": "Choose a [[Coastal]] location (with no investigators, if able). Put the set-aside Fungal Cave location into play adjacent to the chosen location.\nPut the top card of the Caverns deck into play, adjacent to the Fungal Cave. Repeat this until the Fungal Cave is connected to four locations, or the Caverns deck is empty.",
     "clues": null,
     "code": "10531",
     "double_sided": true,
