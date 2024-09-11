@@ -117,7 +117,7 @@
     "back_flavor": "You find yourself surrounded in the dark by dozens of shadowy forms, clacking and chittering. More unsettling still is the soft glowing moss that spreads across the slick walls and ceiling of the tidal cave. As the creatures and shifting moss press in, suffocatingly close, you lose your balance and fall into a thick carpet of moss. Up close, you see small buds and spiny growths in the moss that palpitate and turn toward you like a hundred tiny mouths.\nAs you feel your limbs go numb, a pair of hands pulls you from the moss. Helen Peters drags you bodily out of the cave, cursing under her breath.",
     "back_name": "Enveloped in Moss",
     "back_text": "Each surviving investigator who has not resigned is defeated and suffers 1 mental trauma.",
-    "code": "10530",
+    "code": "10571",
     "doom": 12,
     "double_sided": true,
     "encounter_code": "the_lost_sister",
