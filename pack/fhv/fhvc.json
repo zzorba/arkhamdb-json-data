@@ -299,9 +299,7 @@
   },
   {
     "back_flavor": "After more aeons of descent I saw some side passages or burrows leading from unknown recesses of blackness to this shaft of nighted mystery\n - H.P. Lovecraft, \"The Festival\"",
-    "back_illustrator": "Nele Diel",
     "back_name": "Cavern",
-    "back_traits": "Cave. Dark.",
     "clues": 1,
     "code": "10580",
     "double_sided": true,
@@ -390,6 +388,7 @@
     "enemy_horror": 1,
     "faction_code": "mythos",
     "health": 5,
+    "hidden": true,
     "illustrator": "Helge C. Balzer",
     "name": "Limulus Hybrid [night]",
     "pack_code": "fhvc",
