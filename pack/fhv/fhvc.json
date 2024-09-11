@@ -97,7 +97,7 @@
     "back_flavor": "A whirring, chittering sound echoes off the tunnel walls. A large, crab-like creature emerges from a nearby tidal pool, antennae swaying in the air as if searching for you. The thing moves surprisingly fast on dozens of legs, and its carapace is covered in sharp barnacles and strings of kelp and rotten seaweed. Whatever it is, it emits the most awful, rotten stench you have ever smelled.",
     "back_name": "Hunted",
     "back_text": "Spawn one of the set-aside Crustacean Hybrid enemies at the [[Coastal]] location nearest to the most investigators, <i>(In the Light)</i> side faceup.\nEach investigator at a [[Dark]] location must discard 1 card at random from their hand.\nPlace doom on agenda 2a equal to the current day number.",
-    "code": "10529",
+    "code": "10570,
     "doom": 4,
     "double_sided": true,
     "encounter_code": "the_lost_sister",
