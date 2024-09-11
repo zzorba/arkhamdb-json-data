@@ -170,7 +170,7 @@
     "position": 73,
     "quantity": 1,
     "stage": 2,
-    "text": "[action] Spend 1[per_investigator] clues and choose an enemy at a connecting [[Dark]] location: Move that enemy to your location./n<b>Objective</b> - When an investigator enters Fungal Cave, immediately advance.",
+    "text": "[action] Spend 1 [per_investigator] clues and choose an enemy at a connecting [[Dark]] location: Move that enemy to your location.\n<b>Objective</b> - When an investigator enters Fungal Cave, immediately advance.",
     "type_code": "act"
   },
   {
