@@ -46,7 +46,7 @@
     "type_code": "asset"
   },
   {
-    "back_text": "Hard / Expert\n[skull]: -X. X is twice your current floor number (to a minimum of 2).\n[cultist]: -2. If you succeed and your location is an enemy, exhaust it.\n[tablet]: -4. If you fail, heal 1[per_investigator] damage from the nearest enemy-location.\n[elder_thing]: -5. If it is agenda 2a or 3a, after this test resolves, remove this token from the chaos bag and add it to the predation bag.",
+    "back_text": "Hard / Expert\n[skull]: -X. X is twice your current floor number (to a minimum of 2).\n[cultist]: -2. If you succeed and your location is an enemy, exhaust it.\n[tablet]: -4. If you fail, heal 1 [per_investigator] damage from the nearest enemy-location.\n[elder_thing]: -5. If it is agenda 2a or 3a, after this test resolves, remove this token from the chaos bag and add it to the predation bag.",
     "code": "10523",
     "double_sided": true,
     "encounter_code": "hemlock_house",
@@ -259,7 +259,7 @@
     "position": 32,
     "quantity": 1,
     "shroud": 3,
-    "text": "Massive. Cannot make attacks of opportunity.\nLiving Bedroom gets +2 [per_investigator] health.\n<b>Forced</b> - When this enemy-location is revealed: Place 1 doom on it.",
+    "text": "Massive. Cannot make attacks of opportunity. Living Bedroom gets +2 [per_investigator] health.\n<b>Forced</b> - When this enemy-location is revealed: Place 1 doom on it.",
     "traits": "Room. Monster. Elite.",
     "type_code": "enemy_location",
     "victory": 0
@@ -302,7 +302,7 @@
     "position": 33,
     "quantity": 1,
     "shroud": 3,
-    "text": "Massive. Cannot make attacks of opportunity.\nLiving Bedroom gets +2 [per_investigator] health.\n<b>Forced</b> - When this enemy-location is revealed: It attacks each investigator at this location.",
+    "text": "Massive. Cannot make attacks of opportunity. Living Bedroom gets +2 [per_investigator] health.\n<b>Forced</b> - When this enemy-location is revealed: It attacks each investigator at this location.",
     "traits": "Room. Monster. Elite.",
     "type_code": "enemy_location",
     "victory": 0
@@ -345,7 +345,7 @@
     "position": 34,
     "quantity": 1,
     "shroud": 3,
-    "text": "Massive. Cannot make attacks of opportunity.\nLiving Bedroom gets +2 [per_investigator] health.\n<b>Forced</b> - When this enemy-location is revealed: Make a predation test.",
+    "text": "Massive. Cannot make attacks of opportunity. Living Bedroom gets +2 [per_investigator] health.\n<b>Forced</b> - When this enemy-location is revealed: Make a predation test.",
     "traits": "Room. Monster. Elite.",
     "type_code": "enemy_location",
     "victory": 0
@@ -387,7 +387,7 @@
     "position": 35,
     "quantity": 1,
     "shroud": 3,
-    "text": "Massive. Cannot make attacks of opportunity.\nLiving Bedroom gets +2 [per_investigator] health.\n<b>Forced</b> - When this enemy-location is revealed: It attacks each investigator at this location.",
+    "text": "Massive. Cannot make attacks of opportunity. Living Bedroom gets +2 [per_investigator] health.\n<b>Forced</b> - When this enemy-location is revealed: It attacks each investigator at this location.",
     "traits": "Room. Monster. Elite.",
     "type_code": "enemy_location",
     "victory": 0
@@ -687,7 +687,6 @@
     "back_link": "10543b",
     "clues": 1,
     "code": "10543",
-    "double_sided": true,
     "encounter_code": "hemlock_house",
     "encounter_position": 21,
     "faction_code": "mythos",
