@@ -2958,7 +2958,7 @@
     "position": 234,
     "quantity": 1,
     "text": "Elusive. <b>(Night [night])</b> Hunter.\nEach investigator at Cochleal Stag's location and each connecting location gets -2 to all skills during the mythos phase.",
-    "traits": "Creature. Flora. Mutated.",
+    "traits": "Creature. Monster. Flora. Mutated.",
     "type_code": "enemy"
   },
   {
