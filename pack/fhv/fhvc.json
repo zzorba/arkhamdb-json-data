@@ -2971,7 +2971,7 @@
     "pack_code": "fhvc",
     "position": 235,
     "quantity": 2,
-    "text": "<b>Revelation</b> - Choose the nearest [[Flora]] enemy and heal all damage from it (if that enemy is [[Elite]], heal 2[per_investigator] damage from it instead). If no damage was healed by this effect, discard cards from the top of the encounter deck until a [[Flora]] card is discarded and draw it.",
+    "text": "<b>Revelation</b> - Choose the nearest [[Flora]] enemy and heal all damage from it (if that enemy is [[Elite]], heal 2 [per_investigator] damage from it instead). If no damage was healed by this effect, discard cards from the top of the encounter deck until a [[Flora]] card is discarded and draw it.",
     "traits": "Power.",
     "type_code": "treachery"
   },
