@@ -2994,7 +2994,7 @@
     "encounter_code": "the_forest",
     "encounter_position": 10,
     "faction_code": "mythos",
-    "flavor": "\"...even the herbivores seem to have developed an unusual ability to plan, coordinate, and hunt.\"\n - Dr. Rosa Marquez, Miskatonic Survey, 1926",
+    "flavor": "\"...even the herbivores seem to have developed an unusual ability to plan, coordinate, and hunt.\"\n - Dr. Rosa Marquez, <u>Miskatonic Survey, 1926</u>",
     "illustrator": "Carlos Palma Cruchaga",
     "name": "Call of the Wild",
     "pack_code": "fhvc",
