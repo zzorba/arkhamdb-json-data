@@ -166,7 +166,7 @@
   },
   {
     "back_name": "Walls of Flesh",
-    "back_text": "<b>If there are more seals in play than enemy-locations in the victory display:</b>\n<blockquote>Your efforts to suppress the strange infestation seem to have angered it. A noisome screech shakes the foundation of the house, and the air floods with a fetid stench of something awful down below.</blockquote>\nPut the set-aside Shapeless Cellar enemy-location into play on the Cellar Floor, as close to the middle column as possible.\nAdvance to the set-aside act 2a \"The Heart of the House\" and remove act 2a \"Against the House\" from the game.\n<hr>\n<b>If there are more enemy-locations in the victory display than seals in play:</b>\n<blockquote>The foundations of the house shake as another room threatens to collapse. If you bring this house down, the abomination that lives inside it won't survive long.</blockquote>\nAdvance to the set-aside act 2a \"Against the House\" and remove act 2a \"The Heart of the House\" from the game.",
+    "back_text": "<b>If there are more seals in play than enemy-locations in the victory display:</b>\n<blockquote><i>Your efforts to suppress the strange infestation seem to have angered it. A noisome screech shakes the foundation of the house, and the air floods with a fetid stench of something awful down below.</i></blockquote>\nPut the set-aside Shapeless Cellar enemy-location into play on the Cellar Floor, as close to the middle column as possible.\nAdvance to the set-aside act 2a \"The Heart of the House\" and remove act 2a \"Against the House\" from the game.\n<hr>\n<b>If there are more enemy-locations in the victory display than seals in play:</b>\n<blockquote><i>The foundations of the house shake as another room threatens to collapse. If you bring this house down, the abomination that lives inside it won't survive long.</i></blockquote>\nAdvance to the set-aside act 2a \"Against the House\" and remove act 2a \"The Heart of the House\" from the game.",
     "clues": null,
     "code": "10529",
     "double_sided": true,
@@ -179,7 +179,7 @@
     "position": 29,
     "quantity": 1,
     "stage": 1,
-    "text": "Clues cannot be discovered from locations with no investigators.\n[action] If your location is unsealed and [[Dormant]], investigators at that location spend 1 [per_investigator] clues, as a group: Place 1 resource on it, as a seal.\n<b>Objective</b> - At the end of the round, if a total of 7 locations are sealed and / or in the victory display, advance.",
+    "text": "Clues cannot be discovered from locations with no investigators.\n[action] If your location is unsealed and [[Dormant]], investigators at that location spend 1 [per_investigator] clues, as a group: Place 1 resource on it, as a seal.\n<b>Objective</b> - At the end of the round, if a total of 7 locations are sealed and/or in the victory display, advance.",
     "type_code": "act"
   },
   {
@@ -210,7 +210,7 @@
     "position": 31,
     "back_flavor": "The house shudders, then stills. Sealing off the crevices and nooks where the creature was breaching through the house's walls seems to have forced it to retreat, or perhaps lay dormant for a while. Hopefully it won't resurface, but in the meantime, the legacy of the Hemlock family still stands. Maybe in time, they can find a way to exterminate the creature for good.",
     "back_name": "Laid to Rest",
-    "back_text": "Flip each enemy-location to its location side. Place 1 resource, as a seal, on each unsealed [[Dormant]] location.\n<b>(→R1)</b>. <i>(page 18)</i>.",
+    "back_text": "Flip each enemy-location to its location side. Place 1 resource, as a seal, on each unsealed [[Dormant]] location.\n<b>(→R1)</b> <i>(page 18)</i>.",
     "clues": null,
     "double_sided": true,
     "faction_code": "mythos",
@@ -591,7 +591,7 @@
     "illustrator": "Pixoloid Studios",
     "name": "Living Library",
     "pack_code": "fhvc",
-    "position": 39,
+    "position": 40,
     "quantity": 1,
     "shroud": 3,
     "text": "Massive. Cannot make attacks of opportunity.\nLiving Library gets +1 [per_investigator] health.\n<b>Forced</b> - When this enemy-location is revealed: Each investigator at this location and each connecting location takes 1 horror.",
@@ -737,7 +737,7 @@
     "flavor": "\"It's got me!\"",
     "health": 2,
     "illustrator": "JB Casacop",
-    "is_unique": true,
+  
     "name": "Grappling Spawn",
     "pack_code": "fhvc",
     "position": 44,
@@ -787,6 +787,7 @@
     "enemy_fight": 3,
     "enemy_horror": 2,
     "faction_code": "mythos",
+    "health_per_investigator": true,
     "health": 5,
     "illustrator": "Guillaume Ducos",
     "name": "Shapeless Cellar",
