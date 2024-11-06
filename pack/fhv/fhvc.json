@@ -2842,7 +2842,7 @@
     "quantity": 1,
     "shroud": 1,
     "subname": "Day [day]",
-    "text": "[action]: You inspect the communal hall and check out the local delivery service ([codex] <b>16</b>).",
+    "text": "[action]: You inspect the communal hall and check out the local delivery service <b>([codex] 16)</b>.",
     "traits": "Hemlock Vale.",
     "type_code": "location"
   },
