@@ -2596,6 +2596,7 @@
     "encounter_code": "the_vale",
     "encounter_position": 2,
     "faction_code": "mythos",
+    "hidden": true,
     "illustrator": "Pixoloid Studios",
     "name": "Boarding House",
     "pack_code": "fhvc",
