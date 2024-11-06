@@ -2732,7 +2732,7 @@
     "quantity": 1,
     "shroud": 4,
     "subname": "Day [day]",
-    "text": "[action]: You approach the old homestead ([codex] <b>13</b>).",
+    "text": "[action]: You approach the old homestead <b>([codex] 13)</b>.",
     "traits": "Hemlock Vale.",
     "type_code": "location"
   },
