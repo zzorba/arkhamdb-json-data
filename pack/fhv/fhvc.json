@@ -2586,7 +2586,7 @@
     "quantity": 1,
     "shroud": 3,
     "subname": "Day [day]",
-    "text": "[action]: You ask around about the Vale ([codex] <b>9/b>).\n[action]: Heal 1 damage or 1 horror. (Limit once per game.)",
+    "text": "[action]: You ask around about the Vale <b>([codex] 9)</b>.\n[action]: Heal 1 damage or 1 horror. (Limit once per game.)",
     "traits": "Hemlock Vale.",
     "type_code": "location"
   },
