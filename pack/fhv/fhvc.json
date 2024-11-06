@@ -2749,7 +2749,7 @@
     "quantity": 1,
     "shroud": 3,
     "subname": "Night [night]",
-    "text": "<b>Forced</b> - After you fail a skill test while investigating The Atwood House: Take 1 horror.\n[action]: Test [willpower] (8). If you succeed, heal 2 horror (if you fail you may spend 2 [per_investigator] clues to automatically succeed instead). Then, if the current act is Fate of the Vale (v.IV), remember that \"the survey notes were recovered.\"",
+    "text": "<b>Forced</b> - After you fail a skill test while investigating The Atwood House: Take 1 horror.\n[action]: Test [willpower] (8). If you succeed, heal 2 horror (if you fail, you may spend 2 [per_investigator] clues to automatically succeed instead). Then, if the current act is Fate of the Vale (v.IV), remember that \"the survey notes were recovered.\"",
     "traits": "Hemlock Vale.",
     "type_code": "location"
   },
