@@ -2768,7 +2768,7 @@
     "quantity": 1,
     "shroud": 2,
     "subname": "Day [day]",
-    "text": "[action]: <b>Parlay</b>. You haggle for goods and chat with the locals ([codex] <b>14</b>).",
+    "text": "[action]: <b>Parley.</b> You haggle for goods and chat with the locals <b>([codex] 14)</b>.",
     "traits": "Hemlock Vale.",
     "type_code": "location"
   },
