@@ -2696,7 +2696,7 @@
     "quantity": 1,
     "shroud": 2,
     "subname": "Day [day]",
-    "text": "[reaction] After you discover a clue at The Old Mill: ([codex] <b>12</b>).",
+    "text": "[reaction] After you discover a clue at The Old Mill: <b>([codex] 12)</b>.",
     "traits": "Hemlock Vale.",
     "type_code": "location"
   },
