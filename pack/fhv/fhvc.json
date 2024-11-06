@@ -2659,7 +2659,7 @@
     "quantity": 1,
     "shroud": 3,
     "subname": "Day [day]",
-    "text": "[action]: You approach the overgrown chapel at the top of the hill ([codex] <b>11</b>).\n[action]: Search the top 9 cards of your deck for a [[Spell]] card and draw it. Shuffle your deck. (Limit once per game.)",
+    "text": "[action]: You approach the overgrown chapel at the top of the hill <b>([codex] 11)</b>.\n[action]: Search the top 9 cards of your deck for a [[Spell]] card and draw it. Shuffle your deck. (Limit once per game.)",
     "traits": "Hemlock Vale.",
     "type_code": "location"
   },
