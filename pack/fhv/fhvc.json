@@ -70,7 +70,7 @@
   {
     "back_flavor": "A chunk of rock falls from the ceiling, narrowly missing you. More rocks come loose, forcing you deeper.",
     "back_name": "No Turning Back",
-    "back_text": "Remove each [[Cave]] location from the game <i>(discarding all enemies, tokens, and attachments at those locations)</i>. If River Hawthorne is in play but not under control of any investigator, remove them from the game.\nEach investigator loses all but 2 of their clues.\nIf it is agenda 1a, advance the agenda directly to agenda 2a <i>(do not resolve agenda 1b)</i>.\nYour search for supplies will help you navigate whatever is ahead. Flip the scenario reference card over to its other side, moving all scraps on it to that side, as switches.\nRead <b>Scenario interlude: The Cave-In</b> <i>(page 10</i>.",
+    "back_text": "Remove each [[Cave]] location from the game <i>(discarding all enemies, tokens, and attachments at those locations)</i>. If River Hawthorne is in play but not under control of any investigator, remove them from the game.\nEach investigator loses all but 2 of their clues.\nIf it is agenda 1a, advance the agenda directly to agenda 2a <i>(do not resolve agenda 1b)</i>.\nYour search for supplies will help you navigate whatever is ahead. Flip the scenario reference card over to its other side, moving all scraps on it to that side, as switches.\nRead <b>Scenario Interlude: The Cave-In</b> <i>(page 10</i>.",
     "clues": null,
     "code": "10505",
     "double_sided": true,
