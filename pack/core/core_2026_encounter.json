@@ -51,9 +51,9 @@
         "name": "Collector",
         "pack_code": "core_2026",
         "permanent": true,
-        "position": 180,
+        "position": 181,
         "quantity": 2,
-        "text": "Permanent. Reward. Limit 1 per deck. Purchase only at deck creation.\nYou get +5 deck size.\nYour investigator's Deckbuilding Options gains: \"one other [[Relic] or [[Charm]] asset of any class ([guardian], [seeker], [rogue], [mystic], [survivor]) level 0-3.\"",
+        "text": "Permanent. Reward. Limit 1 per deck. Purchase only at deck creation.\nYou get +5 deck size.\nYour investigator's Deckbuilding Options gains: \"one other [[Relic]] or [[Charm]] asset of any class ([guardian], [seeker], [rogue], [mystic], [survivor]) level 0-3.\"",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 0
