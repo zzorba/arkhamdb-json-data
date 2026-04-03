@@ -30,7 +30,7 @@
         "encounter_code": "smoke_and_mirrors",
         "encounter_position": 5,
         "faction_code": "neutral",
-        "illustrator": "Nia Kovaleski",
+        "illustrator": "Nia Kovalevski",
         "name": "Mark of Elokoss",
         "pack_code": "core_2026",
         "position": 137,
@@ -39,5 +39,23 @@
         "text": "<b>Revelation</b> - Put Mark of Elokoss into play in your threat area.\n<b>Forced</b> - When your turn ends: Take 1 damage. Assign that damage to an asset you control, if able.\n[action][action]: Discard Mark of Elokoss.",
         "traits": "Curse.",
         "type_code": "treachery"
+    },
+    {
+        "code": "12181",
+        "cost": null,
+        "deck_limit": 1,
+        "encounter_code": "queen_of_ash",
+        "encounter_position": 15,
+        "faction_code": "neutral",
+        "illustrator": "Aleksander Karcz",
+        "name": "Collector",
+        "pack_code": "core_2026",
+        "permanent": true,
+        "position": 181,
+        "quantity": 2,
+        "text": "Permanent. Reward. Limit 1 per deck. Purchase only at deck creation.\nYou get +5 deck size.\nYour investigator's Deckbuilding Options gains: \"one other [[Relic]] or [[Charm]] asset of any class ([guardian], [seeker], [rogue], [mystic], [survivor]) level 0-3.\"",
+        "traits": "Talent.",
+        "type_code": "asset",
+        "xp": 0
     }
 ]
