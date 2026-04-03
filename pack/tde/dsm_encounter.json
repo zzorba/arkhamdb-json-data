@@ -165,7 +165,7 @@
         "position": 214,
         "quantity": 1,
         "shroud": 3,
-        "text": "Investigators cannot enter or leave Moon-Beast Galley via player card effects.\n[free] If there are no clues remaining on Moon-Beast Galley: Flip it over.\n<b>Forced</b> - At the end of the round, if there are 3 or more doom in play: Flip Moon-Beast Galley over.",
+        "text": "Investigators cannot enter or leave Moon-Beast Galley via player card effects.\n[fast] If there are no clues remaining on Moon-Beast Galley: Flip it over.\n<b>Forced</b> - At the end of the round, if there are 3 or more doom in play: Flip Moon-Beast Galley over.",
         "traits": "Ship.",
         "type_code": "location"
     },
@@ -179,7 +179,7 @@
         "pack_code": "dsm",
         "position": 214,
         "quantity": 1,
-        "text": "<b>If there were no clues on this card when it was flipped, read the following:</b>\n<i><blockquote>Moving as stealthily as you can, you find a dinghy tied to the side of the ship, two oars left inside. If this galley can move through space using oars, surely this lifeboat can, too. Making sure to stay as quiet as possible, you hop inside the small boat and make your escape.</blockquote></i>\nMove each investigator here to the Moon-Forest.\nRemove this card from the game, discarding all enemies here.<hr>\n<b>If there were 1 or more clues on this card when it was flipped, read the following:</b>\n<i><blockquote>The ship docks at a great city of stone towers, and you slip away as the guards search for you.</blockquote></i>Each investigator here raises their alarm level by 1.\nMove each investigator here to the City of the Moon-Beasts, along with each enemy here.\nRemove this card from the game.",
+        "text": "<b>If there were no clues on this card when it was flipped, read the following:</b>\n<i><blockquote>Moving as stealthily as you can, you find a dinghy tied to the side of the ship, two oars left inside. If this galley can move through space using oars, surely this lifeboat can, too. Making sure to stay as quiet as possible, you hop inside the small boat and make your escape.</blockquote></i>\nDiscard each enemy here. Move each investigator here to the Moon-Forest. Remove this card from the game.<hr>\n<b>If there were 1 or more clues on this card when it was flipped, read the following:</b>\n<i><blockquote>The ship docks at a great city of stone towers, and you slip away as the guards search for you.</blockquote></i>Each investigator here raises their alarm level by 1.\nMove each investigator here to the City of the Moon-Beasts, along with each enemy here.\nRemove this card from the game.",
         "type_code": "story"
     },
     {
@@ -253,7 +253,7 @@
         "position": 218,
         "quantity": 1,
         "shroud": 4,
-        "text": "[action]: Test [agility] (5) to hide among the strange trees. If you succeed, reduce your alarm level by 1. (Limit 1 success per game.)\n[free] During your turn, except during another action: <b>Evade.</b> If you fail, raise your alarm level by 1. (Limit once per round.)",
+        "text": "[action]: Test [agility] (5) to hide among the strange trees. If you succeed, reduce your alarm level by 1. (Limit 1 success per game.)\n[fast] During your turn, except during another action: <b>Evade.</b> If you fail, raise your alarm level by 1. (Limit once per round.)",
         "traits": "Surface. Woods.",
         "type_code": "location",
         "victory": 1

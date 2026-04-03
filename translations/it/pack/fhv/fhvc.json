@@ -1196,7 +1196,7 @@
     {
         "code": "10634",
         "name": "Fienile",
-        "text": "I nemici nel Fienile ricevono +1 al valore di Danno.\n[reaction] Quando il Fienile viene aperto: Colloca il supporto storia Ajax messo da parte in questo luogo ([codex]<b>Omega</b>).",
+        "text": "I nemici nel Fienile ricevono +1 al valore di Danno.\nObbligo - Quando il Fienile viene aperto: Colloca il supporto storia Ajax messo da parte in questo luogo ([codex]<b>Omega</b>).",
         "flavor": "Sembra che il fienile possa collassare da  un momento all'altro.",
         "back_name": "Fattoria degli Atwood",
         "back_flavor": "La vecchia fattoria è disseminata di rottami, bestiame essiccato, mangime marcio e attrezzi agricoli arrugginiti.",
@@ -1527,7 +1527,7 @@
     {
         "code": "10667",
         "name": "Antro a Specchio",
-        "text": "L'Antro a Specchio è collegato al luogo successivo in senso orario e in senso antiorario.\n<b>Obbligo</b> - Quando termini il tuo turno in questo luogo, si no evitaste con éxito en esta ronda: Scegli se collocare 1 tuo indizio su questo luogo oppure scartare 1 carta casuale dalla mano.",
+        "text": "L'Antro a Specchio è collegato al luogo successivo in senso orario e in senso antiorario.\n<b>Obbligo</b> - Quando termini il tuo turno in questo luogo, se non hai avuto successo investigando in questo round: Scegli se collocare 1 tuo indizio su questo luogo oppure scartare 1 carta casuale dalla mano.",
         "back_text": "L'Antro a Specchio è collegato al luogo successivo in senso orario e in senso antiorario.",
         "back_flavor": "...orevvad omissof ihc ,itatnevid ommeras ihc essid ic e òlrap iel e enoisnecsa ednarg al rep omavaraperp ic e atla abre'llen itaiards onavats ittut e oneip e osonimul ,attefrep atanroig alleuq id etnecul elos li ore ,elos li orE",
         "traits": "Infranto. Covo."
@@ -1535,7 +1535,7 @@
     {
         "code": "10668",
         "name": "Antro a Specchio",
-        "text": "L'Antro a Specchio è collegato al luogo successivo in senso orario e in senso antiorario.\n<b>Obbligo</b> - Quando termini il tuo turno in questo luogo, si no investigaste con éxito en esta ronda: Scegli se collocare 1 tuo indizio su questo luogo oppure scartare 1 carta casuale dalla mano.",
+        "text": "L'Antro a Specchio è collegato al luogo successivo in senso orario e in senso antiorario.\n<b>Obbligo</b> - Quando termini il tuo turno in questo luogo, se non hai avuto successo investigando in questo round: Scegli se collocare 1 tuo indizio su questo luogo oppure scartare 1 carta casuale dalla mano.",
         "back_text": "L'Antro a Specchio è collegato al luogo successivo in senso orario e in senso antiorario.",
         "back_flavor": "...orevvad omissof ihc ,itatnevid ommeras ihc essid ic e òlrap iel e enoisnecsa ednarg al rep omavaraperp ic e atla abre'llen itaiards onavats ittut e oneip e osonimul ,attefrep atanroig alleuq id etnecul elos li ore ,elos li orE",
         "traits": "Infranto. Covo."
@@ -2061,7 +2061,7 @@
    },
     {
         "code": "10719",
-        "name": "Tunnel Invaso dai Radici",
+        "name": "Tunnel Invaso dalle Radici",
         "text": "Mentre ci sono indizi sul Tunnel Invaso dalle Radici, devi spendere 1 azione aggiuntiva per lasciare questo luogo.",
         "flavor": "Grosse radici sinuose soffocano le gallerie circostanti.",
         "back_name": "Grotta",

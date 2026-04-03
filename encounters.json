@@ -137,7 +137,7 @@
     },
     {
         "code": "blood_on_the_altar",
-        "name": "Blood On The Altar"
+        "name": "Blood on the Altar"
     },
     {
         "code": "undimensioned_and_unseen",
@@ -1386,5 +1386,9 @@
     {
         "code": "cosmic_journey",
         "name": "Cosmic Journey"
+    },
+    {
+        "code": "enthralling_encore",
+        "name": "Enthralling Encore"
     }
 ]
