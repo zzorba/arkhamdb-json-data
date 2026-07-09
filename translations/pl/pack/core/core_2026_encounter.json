@@ -1,9 +1,9 @@
 [
     {
         "code": "12105",
-        "name": "Spreading Flames",
-        "text": "Easy / Standard\n[skull] -X. X is the current act number.\n[tablet] -1. Reveal another token. If you fail, take 1 damage.\n[elder_thing] -3. If you fail by 2 or more, draw the topmost copy of Fire! in the encounter discard pile, if able.",
-        "back_text": "Hard / Expert\n[skull] -X. X is 1 more than the current act number.\n[tablet] -2. Reveal another token. If you fail, take 1 damage.\n[elder_thing] -4. If you fail, draw the topmost copy of Fire! in the encounter discard pile, if able."
+        "name": "Pełzające płomienie",
+        "text": "Łatwy / Standardowy\n[skull] -X. X to numer obecnego aktu.\n[tablet] -1. Odkryj kolejny żeton. Jeśli test zakończy się porażką, otrzymujesz 1 obrażenie.\n[elder_thing] -3. Jeśli test zakończy się porażką o 2 lub więcej, dobierz najbliższą wierzchu kopię karty Pali się! ze stosu kart odrzuconych, jeśli to możliwe.",
+        "back_text": "Trudny / Ekspercki\n[skull] -X. X to o 1 więcej niż numer obecnego aktu.\n[tablet] -2. Odkryj kolejny żeton. Jeśli test zakończy się porażką, otrzymujesz 1 obrażenie.\n[elder_thing] -4. Jeśli test zakończy się porażką, dobierz najbliższą wierzchu kopię karty Pali się! ze stosu kart odrzuconych, jeśli to możliwe."
     },
     {
         "code": "12106",
@@ -86,12 +86,12 @@
     },
     {
         "code": "12115",
-        "flavor": "\"I've seen more than my share of strange occurrences.\"",
-        "name": "Dr. Henry Armitage",
-        "subname": "Head Librarian",
-        "text": "You get +1 [willpower] and +1 [intellect].\nThe first action you perform each round does not provoke attacks of opportunity.",
-        "traits": "Ally. Miskatonic.",
-        "slot": "Ally"
+        "flavor": "„Widziałem już więcej dziwactw, niż bym sobie życzył”.",
+        "name": "Dr Henry Armitage",
+        "subname": "Główny bibliotekarz",
+        "text": "Dostajesz +1 [willpower] i +1 [intellect].\nPierwsza akcja, którą wykonujesz w każdej rundzie, nie wywołuje ataków towarzyszących.",
+        "traits": "Sprzymierzeniec. Miskatonic.",
+        "slot": "Sprzymierzeniec"
     },
     {
         "code": "12116",
@@ -211,9 +211,9 @@
     },
     {
         "code": "12133",
-        "name": "Smoke and Mirrors",
-        "text": "Easy / Standard\n[skull] -X. X is the total number of [[Elite]] enemies in the victory display and under the act.\n[cultist] -1. If this is a test targeting an [[Elite]] enemy, reveal another token.\n[tablet] -3. If you fail, place 1 of your clues on your location.\n[elder_thing] -1 for each clue you control.",
-        "back_text": "Hard / Expert\n[skull] -X. X is 2 more than the total number of [[Elite]] enemies in the victory display and under the act.\n[cultist] -3. If this is a test targeting an [[Elite]] enemy, reveal another token.\n[tablet] -4. If you fail, place 1 of your clues on your location.\n[elder_thing] -2 for each clue you control."
+        "name": "Dym i lustra",
+        "text": "Łatwy / Standardowy\n[skull] -X. X to łączna liczba [[Elitarnych]] wrogów w puli zwycięstwa i pod aktem.\n[cultist] -1. Jeśli ten test obiera za cel [[Elitarnego]] wroga, odkryj kolejny żeton chaosu.\n[tablet] -3. Jeśli test zakończy się porażką, umieść 1 z twoich wskazówek w twojej lokalizacji.\n[elder_thing] -1 za każdą kontrolowaną przez ciebie wskazówkę.",
+        "back_text": "Trudny / Ekspercki\n[skull] -X. X to o 2 więcej niż łączna liczba [[Elitarnych]] wrogów w puli zwycięstwa i pod aktem.\n[cultist] -3. Jeśli ten test obiera za cel [[Elitarnego]] wroga, odkryj kolejny żeton chaosu.\n[tablet] -4. Jeśli test zakończy się porażką umieść 1 z twoich wskazówek w twojej lokalizacji.\n[elder_thing] -2 za każdą kontrolowaną przez ciebie wskazówkę."
     },
     {
         "code": "12134",
@@ -244,9 +244,9 @@
     },
     {
         "code": "12137",
-        "name": "Mark of Elokoss",
-        "text": "<b>Revelation</b> - Put Mark of Elokoss into play in your threat area.\n<b>Forced</b> - When your turn ends: Take 1 damage. Assign that damage to an asset you control, if able.\n[action][action]: Discard Mark of Elokoss.",
-        "traits": "Curse."
+        "name": "Znamie Elokoss",
+        "text": "<b>Odkrycie</b> - Umieść Znamię Elokoss w grze, w twoim obszarze zagrożenia.\n<b>Wymuszony</b> - Koniec twojej tury: otrzymujesz 1 obrażenie. Przypisz to obrażenie atutowi, który kontrolujesz, jeśli to możliwe.\n[action] [action]: Odrzuć Znamię Elokoss.",
+        "traits": "Klątwa."
     },
     {
         "code": "12138",
@@ -466,9 +466,9 @@
     },
     {
         "code": "12168",
-        "name": "Queen of Ash",
-        "text": "Easy / Standard\n[skull] -X. X is the number of Fire! treacheries in play.\n[cultist] -2. If this is an attack or evasion targeting a [[Cultist]] enemy, reveal another token.\n[tablet] -2 (-4 instead if you are at a [[Ritual Site]] location).\n[elder_thing] -3. If you fail, draw the topmost copy of Fire! in the encounter discard pile.",
-        "back_text": "Hard / Expert\n[skull] -X. X is twice the number of Fire! treacheries in play.\n[cultist] -3. If this is an attack or evasion targeting a [[Cultist]] enemy, reveal another token.\n[tablet] -4. If you are at a [[Ritual Site]] location, you automatically fail instead.\n[elder_thing] -5. If you fail, draw the topmost copy of Fire! in the encounter discard pile."
+        "name": "Królowa popiołu",
+        "text": "Łatwy / Standardowy\n[skull] -X. X to liczba kart podstępu Pali się! w grze.\n[cultist] -2. Jeśli celem tego ataku lub wymykania się jest wróg z cechą [[Kultysta]], odkryj kolejny żeton.\n[tablet] -2 (zamiast tego –4, jeśli jesteś w lokalizacji z cechą [[Miejsce rytuału]]).\n[elder_thing] -3. Jeśli test zakończy się porażką, dobierz najbliższą wierzchu kopię karty Pali się! ze stosu kart odrzuconych.",
+        "back_text": "Trudny / Ekspercki\n[skull] -X. X to dwukrotność liczby kart podstępu Pali się! w grze.\n[cultist] -3. Jeśli celem tego ataku lub wymykania się jest wróg z cechą [[Kultysta]], odkryj kolejny żeton.\n[tablet] -4. Jeśli jesteś w lokalizacji z cechą [[Miejsce rytuału]], ten test automatycznie kończy się porażką.\n[elder_thing] -5. Jeśli test zakończy się porażką, dobierz najbliższą wierzchu kopię karty Pali się! ze stosu kart odrzuconych."
     },
     {
         "code": "12169",
@@ -574,8 +574,8 @@
     },
     {
         "code": "12181",
-        "name": "Collector",
-        "text": "Permanent. Reward. Limit 1 per deck. Purchase only at deck creation.\nYou get +5 deck size.\nYour investigator's Deckbuilding Options gains: \"one other [[Relic]] or [[Charm]] asset of any class ([guardian], [seeker], [rogue], [mystic], [survivor]) level 0-3.\"",
+        "name": "Kolekcjoner",
+        "text": "Trwały. Nagroda. Limit 1 na talię. Kup podczas budowania talii.\nRozmiar twojej talii jest zwiększony o 5.\nOpcje tworzenia talii twojego badacza zyskują: 1 inna karta atutu z cechą [[Relikt]] lub [[Amulet]] dowolnej klasy ([guardian], [seeker], [rogue], [mystic], [survivor]) o poziomie 0-3”.",
         "traits": "Talent."
     },
     {
