@@ -461,7 +461,7 @@
         "traits": "Przedmiot. Artefakt. R'lyeh."
     },
     {
-        "code": 11553,
+        "code": "11553",
         "name": "Pasieka",
         "text": "Łatwy / Standardowy\n[skull]: -X. X to połowa liczby żetonów zagłady na wrogach i atutach w grze, zaokrąglając w dół (do maksymalnie 4).\n[cultist]: -1. Jeśli w twojej lokalizacji znajduje się wróg z cechą [[Kultysta]], odkryj kolejny żeton.\n[tablet]: -3. Jeśli test zakończy się porażką, umieść 1 żeton zagłady na wrogu w twojej lokalizacji, na którym nie ma żadnego żetonu zagłady.\n[elder_thing]: -4. Jeśli test zakończy się porażką, otrzymujesz 1 obrażenie lub 1 punkt przerażenia.",
         "back_text": "Trudny / Ekspercki\n[skull]: -X. X to liczba żetonów zagłady na wrogach i atutach w grze (do maksymalnie 8).\n[cultist]: -3. Jeśli w twojej lokalizacji znajduje się wróg z cechą [[Kultysta]], odkryj kolejny żeton.\n[tablet]: -5. Jeśli test zakończy się porażką, umieść 1 żeton zagłady na wrogu w twojej lokalizacji (na którym nie ma żadnego żetonu zagłady, jeśli to możliwe).\n[elder_thing]: -6. Jeśli test zakończy się porażką, otrzymujesz 1 obrażenie lub 1 punkt przerażenia."
