@@ -221,8 +221,8 @@
     {
         "code": "03184",
         "flavor": "A veces, el enemigo más aterrador es tu propia mente.",
-        "name": "Paciente loco",
-        "text": "<b>Aparición</b> - Pasillos del manicomio más cercanos.\n<b>Presa</b> - Mayor cordura restante.\n<b>Obligado</b> - Cuando ataques al Paciente loco: Recibe 1 punto de horror.",
+        "name": "Paciente perturbado",
+        "text": "<b>Aparición</b> - Pasillos del manicomio más cercanos.\n<b>Presa</b> - Mayor cordura restante.\n<b>Obligado</b> - Cuando ataques al Paciente perturbado: Recibe 1 punto de horror.",
         "traits": "Humanoide. Lunático."
     },
     {

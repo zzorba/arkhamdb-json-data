@@ -485,15 +485,15 @@
     {
         "code": "03095",
         "flavor": "« Sortez ! Sortez ! Sortez de ma tête ! »",
-        "name": "Maniaque",
-        "text": "<b>Forcé</b> - Après que le Maniaque vous a engagé : subissez 1 dégât et infligez 1 dégât au Maniaque.",
+        "name": "Annonciateur du Signe",
+        "text": "<b>Forcé</b> - Après que l'Annonciateur du Signe vous a engagé : subissez 1 dégât et infligez 1 dégât à l'Annonciateur du Signe.",
         "traits": "Humanoïde. Aliéné."
     },
     {
         "code": "03096",
         "flavor": "Ses yeux s'écarquillèrent, et elle ramassa le couteau.",
-        "name": "Jeune Psychopathe",
-        "text": "<b>Forcé</b> - Après que la Jeune Psychopathe vous a engagé : vous devez soit subir 1 horreur, soit la Jeune Psychopathe gagne +3 combat jusqu'à la fin de la phase d'Investigation.",
+        "name": "Marionnette d'Hastur",
+        "text": "<b>Forcé</b> - Après que la Marionnette d'Hastur vous a engagé : vous devez soit subir 1 horreur, soit la Marionnette d'Hastur gagne +3 combat jusqu'à la fin de la phase d'Investigation.",
         "traits": "Humanoïde. Aliéné."
     },
     {

@@ -221,8 +221,8 @@
     {
         "code": "03184",
         "flavor": "Parfois le plus terrifiant de nos ennemis est notre propre esprit.",
-        "name": "Patiente Folle",
-        "text": "<b>Génération</b> - Couloir du Sous-sol le plus proche.\n<b>Proie</b> - Santé mentale restante la plus élevée.\n<b>Forcé</b> - Quand vous attaquez la Patiente Folle : subissez 1 horreur.",
+        "name": "Patiente Tourmentée",
+        "text": "<b>Génération</b> - Couloir du Sous-sol le plus proche.\n<b>Proie</b> - Santé mentale restante la plus élevée.\n<b>Forcé</b> - Quand vous attaquez la Patiente Tourmentée : subissez 1 horreur.",
         "traits": "Humanoïde. Aliéné."
     },
     {
