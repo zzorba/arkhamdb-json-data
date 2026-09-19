@@ -395,5 +395,17 @@
     {
         "code": "aof",
         "name": "Aura de la Foi"
+    },
+    {
+        "code": "fof",
+        "name": "Film Fatal"
+    },
+    {
+        "code": "boa",
+        "name": "Fraternité des Cendres"
+    },
+    {
+        "code": "cob",
+        "name": "Les Enfants du Sang"
     }
 ]
